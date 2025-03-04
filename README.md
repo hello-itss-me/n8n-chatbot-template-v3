@@ -1,1 +1,1 @@
-# n8n-chatbot-template-v3
+# n8n-chatbot-template
